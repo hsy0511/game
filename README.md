@@ -1,5 +1,6 @@
 # game
 # 가위바위보 게임
+
 ![게임 설명](https://user-images.githubusercontent.com/104752580/173518746-fdb04336-9331-4385-b05e-9e3f6b421dcc.JPG)
 1.document.write 키워드로 <H1>태그를 통해서 제목을 만듭니다.
 2.game이라는 변수는 prompt 키워드를 써서 입력창을 만들어 자신이 선택하고 싶은 것을 적습니다.
